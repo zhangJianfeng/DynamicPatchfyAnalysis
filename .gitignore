@@ -1,0 +1,17 @@
+# Ignore checkpoints and tensorboard runs
+checkpoints/
+runs/
+*.pt
+*.pth
+
+# Datasets and large files
+ETTh1.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+venv/
